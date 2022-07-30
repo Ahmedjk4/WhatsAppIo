@@ -1,4 +1,5 @@
-heroku-node
-===========
+# Whatsapp IO
+==============
 
-Code for the tutorial by @sevilayha: Deploying Node Apps to Heroku
+Gaming On Whatsapp platform
+in development ( i didn't create any thing in it until now but i will )
